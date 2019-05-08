@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\Gorges\02-05-19\AvaliacaoCsharp01\AvaliacaoCsharp01\bin\Debug\AvaliacaoCsharp01.exe.config
+C:\Users\aluno\Desktop\Gorges\02-05-19\AvaliacaoCsharp01\AvaliacaoCsharp01\bin\Debug\AvaliacaoCsharp01.exe
+C:\Users\aluno\Desktop\Gorges\02-05-19\AvaliacaoCsharp01\AvaliacaoCsharp01\bin\Debug\AvaliacaoCsharp01.pdb
+C:\Users\aluno\Desktop\Gorges\02-05-19\AvaliacaoCsharp01\AvaliacaoCsharp01\obj\Debug\AvaliacaoCsharp01.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Gorges\02-05-19\AvaliacaoCsharp01\AvaliacaoCsharp01\obj\Debug\AvaliacaoCsharp01.Form1.resources
+C:\Users\aluno\Desktop\Gorges\02-05-19\AvaliacaoCsharp01\AvaliacaoCsharp01\obj\Debug\AvaliacaoCsharp01.Properties.Resources.resources
+C:\Users\aluno\Desktop\Gorges\02-05-19\AvaliacaoCsharp01\AvaliacaoCsharp01\obj\Debug\AvaliacaoCsharp01.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Gorges\02-05-19\AvaliacaoCsharp01\AvaliacaoCsharp01\obj\Debug\AvaliacaoCsharp01.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Gorges\02-05-19\AvaliacaoCsharp01\AvaliacaoCsharp01\obj\Debug\AvaliacaoCsharp01.exe
+C:\Users\aluno\Desktop\Gorges\02-05-19\AvaliacaoCsharp01\AvaliacaoCsharp01\obj\Debug\AvaliacaoCsharp01.pdb
